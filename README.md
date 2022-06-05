@@ -17,8 +17,8 @@ All fan end bearing data was collected at 12,000 samples/second.
 
 Data files are in Matlab format.  
 Each file contains - 
-  1. fan and 
-  2. drive end vibration data as well as 
+  1. Fan end 
+  2. Drive end vibration data as well as 
   3. motor rotational speed.  
     For all files, the following item in the variable name indicates:
       
