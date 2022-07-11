@@ -1,4 +1,4 @@
-# 1D_CNN_VibrationSignal_BearingFaultDiagnosis
+# 1D-CNN Vibration Signal Bearing Fault Diagnosis
 
 Bearing fault diagnosis has been a challenge in the monitoring activities of rotating machinery, and it's receiving more and more attention. The conventional fault diagnosis methods usually extract features from the waveforms or spectrums of vibration signals in order to correctly classify faults.
 
