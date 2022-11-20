@@ -33,5 +33,9 @@ Each file contains -
 
     RPM- rpm during testing
 
-#cwru
-#bearing dataset
+
+
+## Stargazers over time
+
+[![Stargazers over time](https://starchart.cc/Abdulhamid97Mousa/1D_CNN_VibrationSignal_BearingFaultDiagnosis.svg)](https://starchart.cc/Abdulhamid97Mousa/1D_CNN_VibrationSignal_BearingFaultDiagnosis)
+
